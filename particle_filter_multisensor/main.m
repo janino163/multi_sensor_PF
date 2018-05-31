@@ -1,0 +1,6 @@
+%{
+multi bearing sensor
+
+%}
+
+end
